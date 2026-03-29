@@ -49,11 +49,12 @@ python parse_test_res.py --directory output/base2new/test_new/dataname/shots_16/
 ## Dataset
 
 📋 Due to the double-blind review process, we are unable to upload the dataset or provide further details at this time.
-
----
-
-## Coming Soon
-
 🚀 Our full eye-tracking data collection pipeline, the gaze dataset, and checkpoints for all tasks will be released later.
 
 **Stay tuned!!!**
+
+---
+
+
+
+
