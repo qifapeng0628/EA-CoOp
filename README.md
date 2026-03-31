@@ -1,10 +1,10 @@
 
 
-# EA-CoOp
+# AdaLook
 
-Official implementation of **EA-CoOp**.
+Official implementation of **AdaLook**.
 
-> **Note:** In our paper, the method is named **EA-CoOp**, while in the codebase it is implemented under the name **MedgazeCoOp**.
+> **Note:** In our paper, the method is named **AdaLook**, while in the codebase it is implemented under the name **MedgazeCoOp**.
 
 ---
 
